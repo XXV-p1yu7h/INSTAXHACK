@@ -9,33 +9,53 @@ Instaxhack is a bash based script which is officially made to test password stre
 XXV piyush 
 
 AVAILABLE ON :
+
 Termux
 TESTED ON :
 Termux
+
 REQUIREMENTS :
 internet
 php
 storage 400 MB
 ngrok Token
+
 FEATURES :
 [+] Instagram stable api !
+
 [+] Updated maintainence !
+
 [+] tor usage !
+
 [+] Easy for Beginners !
+
 INSTALLATION [Termux] :
+
+
 apt-get update -y
+
 apt-get upgrade -y
+
 pkg install python -y
+
 pkg install python2 -y
+
 pkg install git -y
+
 pip install lolcat
 
 cd $HOME
 ls
+
 cd instaxhack
+
 ls
+
 bash setup
+
 bash instaxhack.sh
+
+
 [+]--Now you need internet connection to continue further process...
 
 [+]--You can select any option by clicking on your keyboard
