@@ -45,6 +45,9 @@ pkg install git -y
 pip install lolcat
 
 cd $HOME
+
+git clone https://github.com/XXV-p1yu7h/INSTAXHACK
+
 ls
 
 cd instaxhack
